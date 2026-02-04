@@ -1,7 +1,8 @@
 ## Luide Costa 😶‍🌫️
 
-** 'Desenvolvedor Python' **
+**`Desenvolvedor Python`**
 
+Me chamo Luide Costa, tenho 23 anos e sou natural da Bahia. Concluí o ensino médio no Colégio Estadual Maria Evangelina lima dos Santos, Atualmente, estou cursando Análise de Dados na Plataforma DNC. Sou apaixonado por tecnologia e estou sempre tentando evoluir nessa aréa.
 <!--
 **aloudi2/aloudi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
