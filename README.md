@@ -2,7 +2,10 @@
 
 **`Desenvolvedor Python`**
 
-Me chamo Luide Costa, tenho 23 anos e sou natural da Bahia. Concluí o ensino médio no Colégio Estadual Maria Evangelina lima dos Santos, Atualmente, estou cursando Análise de Dados na Plataforma DNC. Sou apaixonado por tecnologia e estou sempre tentando evoluir nessa aréa.
+Me chamo Luide Costa, tenho 23 anos e sou natural da Bahia. Concluí o ensino médio no Colégio Estadual Maria Evangelina Lima dos Santos.
+Atualmente, estou cursando Análise de Dados pela Plataforma DNC, onde venho desenvolvendo habilidades voltadas à tecnologia e ao uso de dados para tomada de decisão.
+Sou apaixonado por tecnologia, aprendizado contínuo e estou sempre em busca de evolução profissional na área, explorando novas ferramentas e aprimorando meus conhecimentos constantemente.
+
 <!--
 **aloudi2/aloudi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
